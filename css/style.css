@@ -2,3 +2,15 @@ body{
     background-color: #3571a3;
     font-family:Arial, Helvetica, sans-serif;
 }
+#container{
+    display:flex;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo{
+    color:#351515
+}
+#menu{
+    flex-direction: row;
+}
